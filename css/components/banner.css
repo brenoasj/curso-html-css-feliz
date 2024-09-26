@@ -1,9 +1,9 @@
 .banner {
-    background-image: url(../../static/img/banner.png);
+    background-image: url(../../static/img/jungle-Imgur.gif);
     background-size: 100%;
     background-repeat: no-repeat;
     box-sizing: border-box;
-    height: 800px;  
+    height: 750px;  
     border-bottom: 10px solid black;
     display: flex;
     padding-top: 115px;
